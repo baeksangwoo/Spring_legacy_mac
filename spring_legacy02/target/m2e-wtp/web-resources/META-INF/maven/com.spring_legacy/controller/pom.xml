@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.spring_legacy</groupId>
 	<artifactId>controller</artifactId>
-	<name>spring_legacy01</name>
+	<name>spring_legacy02</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
